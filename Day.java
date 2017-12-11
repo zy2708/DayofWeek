@@ -1,7 +1,7 @@
 /**
  *  day class is a class to get a day of a week
  */
-public class day {
+public class Day {
 
     private String[] day=new String[]{"Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};
     int index;
