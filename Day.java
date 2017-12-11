@@ -6,7 +6,7 @@ public class Day {
     private String[] day=new String[]{"Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};
     int index;
 
-    public day(String day){
+    public Day(String day){
         int i=indexofday(day);
         if(i!=7){
             this.index=i;
