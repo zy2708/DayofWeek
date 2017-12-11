@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dayDriver {
+public class DayDriver {
     public static void main (String[]args){
         Scanner scanner=new Scanner(System.in);
         System.out.println("Enter the current day of a week:");
